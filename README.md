@@ -1,5 +1,5 @@
 # Calidad de Software
-
+# autor:jorge torres
 Repositorio de apoyo para la materia de Calidad de Software. Este documento presenta conceptos básicos para comprender la importancia de la calidad en el desarrollo de software y cómo las pruebas ayudan a asegurar que una aplicación funcione de manera confiable.
 
 ## Objetivo
